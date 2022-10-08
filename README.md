@@ -75,13 +75,13 @@ In this project I try to recreate the eight bit computer that [Ben Eater](https:
 The goal of this project is to create a safe yet simple password manager that is easy to use. With this goal in mind, I created both a Python CLI, a C# library as well as a C# CLI application of it. I am also working on a GUI application based on the C# library. I still continue to improve this application and will add more functionalities in the future.
 - *Key Technologies* - 🐍 Python | 🖥️ Visual C#
 - *Status* - 🔄 working
-- *Repository* - [password-manager-Python](https://github.com/asankaSovis/password-manager-Python)
+- *Repository* - [password-manager-Python](https://github.com/asankaSovis/password-manager-Python), [password-manager-CSharpLibrary](https://github.com/asankaSovis/password-manager-CSharpLibrary)
 
 ### 03. 🔥 Prometheus Fire Alarm System
 This project was intended to create a next-generation fire alarm system that is both robust and smart. It has the capability to successfully detect and even extinguish fires while also giving full control to the operator remotely. The command panel even has the capability to manage multiple of these fire alarm modules which gives the building much better safety when it comes to fire hazards. I have even uploaded a demonstration to [youtube](https://www.youtube.com/watch?v=StTqXEQ2l-Y) that shows the fire alarm system in action.
 - *Key Technologies* - 💿 C++ | 🖥️ Visual C# | ♾️ Arduino
 - *Status* - ✅ done
-- *Repository* - [prometheus-fire-alarm](https://github.com/asankaSovis/prometheus-fire-alarm)
+- *Repository* - [prometheus-fire-alarm](https://github.com/asankaSovis/prometheus-fire-alarm), [prometheus-command-panel](https://github.com/asankaSovis/prometheus-command-panel)
 
 ### 04. 📩 BitStreamer
 BitStreamer is a data streaming software developed for communication engineers to send a bit stream from one COM port and check how many bits can be recieved back from another COM port. Here, the bitstream from the first COM port can be sent through a communication medium to check the efficiency of communication medium.
