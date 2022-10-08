@@ -93,7 +93,7 @@ BitStreamer is a data streaming software developed for communication engineers t
 Building a database of Sinhala definitions for an English dictionary using crowd sourcing. Anyone can create an account using their email. They can later add words to the dictionary, add definitions to the existing words, vote for the best definition from currently existing definitions that others have added.
 - *Key Technologies* - ⌨️ JavaScript | 📱 HTML | 🐘 PHP | 🎨 CSS
 - *Status* - ✅ done
-- *Repository* - [BitStreamer](https://github.com/asankaSovis/BitStreamer)
+- *Repository* - [ Project-Akaradiya](https://github.com/asankaSovis/Project-Akaradiya)
 
 ---
 
