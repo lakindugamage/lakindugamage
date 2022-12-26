@@ -53,7 +53,7 @@
 ⚡I am interested in a variety of fields. I find myself comfortable mostly in windows programming. However, I am interested in hardware descriptions languages like Verilog as well. On the other hand, I also do low level programming such as C/C++ and Assembly. Eventhough not my strong point, I'm also capable of working with web development tools. When it comes to scripting, I'm quite confident with Python.
 
 ```
-𓇲 Verilog            ⭐⭐⭐                 💻 Visual Basic      ⭐⭐⭐                 🖥️ Visual C#         ⭐⭐⭐⭐
+𓇲 Verilog            ⭐⭐⭐⭐               💻 Visual Basic      ⭐⭐⭐                 🖥️ Visual C#         ⭐⭐⭐⭐
 💾 C                 ⭐⭐⭐                 💿 C++               ⭐⭐⭐                 🪫Assembly           ⭐⭐
 🐍 Python            ⭐⭐⭐⭐               ☕ Java              ⭐⭐                   🐘 PHP               ⭐⭐
 📜 JS                ⭐⭐                    🌏 HTML              ⭐⭐                   🖌️ CSS               ⭐
@@ -94,6 +94,12 @@ Building a database of Sinhala definitions for an English dictionary using crowd
 - *Key Technologies* - ⌨️ JavaScript | 📱 HTML | 🐘 PHP | 🎨 CSS
 - *Status* - ✅ done
 - *Repository* - [Project-Akaradiya](https://github.com/asankaSovis/Project-Akaradiya)
+
+### 06. 📌 Indoor Positioning System
+The idea of this project is to build a system that uses the existing lights to detect the location of a user within an indoor environment. For this, we can use Visible Light Communication (VLC) technology. The basic concept is to have four LEDs transmitting their IDs one after the other at fixed intervals. The reciever can recieve the IDs and identify how the intensity differs between each LED and decide the position of itself within an environment.
+- *Key Technologies* - 𓇲 Verilog | ♾️ Arduino | 🖥️ Visual C#
+- *Status* - ✅ done (Documenting...)
+- *Repository* - [Position_Detection](https://github.com/asankaSovis/Position_Detection)
 
 ---
 
