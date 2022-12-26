@@ -11,7 +11,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    11 Languages
+                    13 Languages
                 </h2>
             </section>
             <section class="column">
@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="268.53613634893946" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="268.53613634893946" y="0" width="89.86094719994827" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="358.39708354888774" y="0" width="32.29029924340403" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="390.6873827922917" y="0" width="29.811113715726847" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="420.49849650801855" y="0" width="22.039373706673565" height="8" fill="#0096D8"/>
-                    <rect mask="url(#languages-bar)" x="442.53787021469213" y="0" width="8.89095237325401" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="451.4288225879461" y="0" width="4.726441250646663" height="8" fill="#264b99"/>
-                    <rect mask="url(#languages-bar)" x="456.15526383859276" y="0" width="3.8447361614071394" height="8" fill="#b2b7f8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.1409830698718" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="269.1409830698718" y="0" width="86.6529284756649" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="355.79391154553673" y="0" width="31.137541701742897" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="386.9314532472796" y="0" width="28.746862625884702" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="415.6783158731643" y="0" width="21.25257225703863" height="8" fill="#0096D8"/>
+                    <rect mask="url(#languages-bar)" x="436.93088813020296" y="0" width="9.566750070152464" height="8" fill="#b2b7f8"/>
+                    <rect mask="url(#languages-bar)" x="446.49763820035537" y="0" width="8.944653602718796" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="455.44229180307417" y="0" width="4.557708196925764" height="8" fill="#264b99"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -63,6 +63,12 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#b2b7f8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Verilog
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C++
@@ -72,12 +78,6 @@
                             <path fill="#264b99" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Inno Setup
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#b2b7f8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Verilog
                     </div>
                 </div>
             </section>
