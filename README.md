@@ -22,7 +22,7 @@
 - 👷🏾 Working on becoming a reputed engineer in the field of electronics
 - 🎓 Studying Electronics and Telecommunication Engineering at SLTC
 - 📧 How to reach me: [akashsovis@gmail.com](mailto:akashsovis@gmail.com)
-- ⚒️ Want my help? [Catch me on Fiverr](https://www.fiverr.com/akashsovis) 
+- 🌎 [Find me on the internet](https://asankasovis.github.io/)
 
 ## 💜 Social Media
 
@@ -100,6 +100,12 @@ The idea of this project is to build a system that uses the existing lights to d
 - *Key Technologies* - 𓇲 Verilog | ♾️ Arduino | 🖥️ Visual C#
 - *Status* - ✅ done (Documenting...)
 - *Repository* - [Position_Detection](https://github.com/asankaSovis/Position_Detection)
+
+### 07. 🚘 Metroparking
+The main problem identified is the inefficiency of parking implementations. Metroparking is a next level smart parking system that automates the process of reserving, paying and managing parking services in urban parking providers. It is an IoT based project that uses electronics, autonomous and cloud technologies to create a fully automated system to handle parking.
+- *Key Technologies* - ⌨️ JavaScript | 📱 HTML | 🐘 PHP | 🎨 CSS | ♾️ Arduino | 🖥️ Visual C#
+- *Status* - ✅ done
+- *Repository* - [Metroparking](https://github.com/asankaSovis/Metroparking)
 
 ---
 
