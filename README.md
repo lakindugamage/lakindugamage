@@ -107,6 +107,12 @@ The main problem identified is the inefficiency of parking implementations. Metr
 - *Status* - ✅ done
 - *Repository* - [Metroparking](https://github.com/asankaSovis/Metroparking)
 
+### 08. 📡 Bidirectional Transciever
+his project was intended to develop a bidirectional transmitter and reciever device that uses Visible Light Communication (VLC) technology to transmit and recieve data from one device to another. In its basic form, data is transmitted as pulses of light where on means bit 1 and off means bit 0. This can be paired with more complicated transmitting techniques to build much more accurate and sophisticated data transmission.
+- *Key Technologies* - 𓇲 Verilog | 💿 C/C++
+- *Status* - ✅ done (Documenting...)
+- *Repository* - [Bidirectional_Transmitter](https://github.com/asankaSovis/Bidirectional_Transmitter)
+
 ---
 
 > Want a profile like this 😏? [Drop in](https://www.fiverr.com/s2/e49d0013dd)
