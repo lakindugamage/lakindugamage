@@ -114,6 +114,12 @@ This project was intended to develop a bidirectional transmitter and reciever de
 - *Status* - ✅ done (Documenting...)
 - *Repository* - [Bidirectional_Transmitter](https://github.com/asankaSovis/Bidirectional_Transmitter)
 
+### 09. 🤖 Project Bionic
+Project Bionics intends to build a bio inspired robot that can mimic the nature. The design, based on the 3D models shared by KILIC on PCBWay, can mimic the movement of a spider by using servos. The complete system is controlled by a NodeMCU and is powered by Li-ion battery which makes it portable. The robot can move to the front, back and can rotate to the left and right.
+- *Key Technologies* - 💿 C/C++
+- *Status* - ✅ done
+- *Repository* - [Project_Bionic](https://github.com/asankaSovis/Project_Bionic)
+
 ---
 
 > Want a profile like this 😏? [Drop in](https://www.fiverr.com/s2/e49d0013dd)
