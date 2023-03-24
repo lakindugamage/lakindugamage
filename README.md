@@ -19,7 +19,6 @@
 
 - 🤗 Passionate about anything tech
 - 👍 Like music, good art and exercise
-- 👷🏾 Working at Nexus Hub Engineering (Pvt) Ltd
 - 🎓 Studying Electronics and Telecommunication Engineering at SLTC
 - 📧 How to reach me: [akashsovis@gmail.com](mailto:akashsovis@gmail.com)
 - 🌎 [Find me on the internet](https://asankasovis.github.io/)
