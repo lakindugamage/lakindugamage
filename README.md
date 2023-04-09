@@ -20,6 +20,7 @@
 - 🤗 Passionate about anything tech
 - 👍 Like music, good art and exercise
 - 🎓 Studying Electronics and Telecommunication Engineering at SLTC
+- 👷‍♂️ Working as a trainee robotics engineer at NexusHub Engineering
 - 📧 How to reach me: [akashsovis@gmail.com](mailto:akashsovis@gmail.com)
 - 🌎 [Find me on the internet](https://asankasovis.github.io/)
 - 🌲 [Go through my linktree](https://linktr.ee/asankasovis)
