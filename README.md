@@ -24,6 +24,7 @@
 - 📧 How to reach me: [akashsovis@gmail.com](mailto:akashsovis@gmail.com)
 - 🌎 [Find me on the internet](https://asankasovis.github.io/)
 - 🌲 [Go through my linktree](https://linktr.ee/asankasovis)
+- 💸 Donate to me on [Paypal](https://www.paypal.com/donate/?hosted_button_id=4EWXTWQ9FUFLA)
 
 ## 💜 Social Media
 
