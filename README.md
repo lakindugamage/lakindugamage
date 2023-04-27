@@ -13,7 +13,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asankasovis&theme=gruvbox&margin-w=15&column=7&no-frame=true" alt="Badges (NOTE: If you see this text, then someting must've gone wrong with loading this widget. Please try reloading. If it still persist, please contact me.)" /></a> </p>
 
-🧑‍🔬 As an Electronics and Telecommunication Engineering undergraduate from [Sri Lanka Technological Campus](www.sltc.ac.lk), I'm interested in all things electronic and programming related. I spend most of my time working on my campus work and writing different pieces of code in my free time. I also like to fix electronic equipment and even design my own if I get the chance.
+🧑‍🔬 As an Electronics and Telecommunication Engineering undergraduate from [Sri Lanka Technological Campus](www.sltc.ac.lk), I'm interested in all things electronic and programming related. I'm also working full-time as a Robotics RnD Engineer at NexusHub Engineering to complete my internship. I spend most of my time working on my campus work, developing engineering designs at my workplace and writing different pieces of code in my free time. I also like to fix electronic equipment and even design my own if I get the chance.
 
 **Skills:** Electronic Engineering ⚡ | FPGAs &nbsp;𓇲&nbsp; | Programming 💻 | Graphic Designing 📊 | Teamwork 🤝 | Writing 📝
 
@@ -41,7 +41,7 @@
 
 ## 📈 Github Performance
 
-⚡I do my best to keep a healthy work-life balance. Since I'm still a student, I sometimes find it hard to maintain all other aspects of my life in balance which results in a decline in Github activity. However, I do my best to keep this balance and to not disrupt the flow.
+⚡I do my best to keep a healthy work-life balance. Since I'm still a student who also has to work full-time, I sometimes find it hard to maintain all other aspects of my life in balance which results in a decline in Github activity. However, I do my best to keep this balance and to not disrupt the flow.
 
 ![GitHub stats (NOTE: If you see this text, then someting must've gone wrong with loading this widget. Please try reloading. If it still persist, please contact me.)](https://github-readme-stats.vercel.app/api?username=asankaSovis&show_icons=true&count_private=true&theme=merko)
 
@@ -120,6 +120,12 @@ Project Bionics intends to build a bio inspired robot that can mimic the nature.
 - *Key Technologies* - 💿 C/C++
 - *Status* - ✅ done
 - *Repository* - [Project_Bionic](https://github.com/asankaSovis/Project_Bionic)
+
+### 10. 📒 Stick It!
+Stick It! is a basic note organizing app that can be used to store and pin notes to the screen. Simillar to the Microsoft Sticky notes, this can be used to write simple notes quickly and easily. Unlike Sticky Notes, this supports markdown and also has the functionality to pin the notes on top of other windows.
+- *Key Technologies* - 🖥️ Visual C#
+- *Status* - ✅ done (Documenting and Improving...)
+- *Repository* - [Stick It!](https://github.com/asankaSovis/Stick-It)
 
 ---
 
