@@ -20,7 +20,7 @@
 - 🤗 Passionate about anything tech
 - 👍 Like music, good art and exercise
 - 🎓 Studying Electronics and Telecommunication Engineering at SLTC
-- 👷‍♂️ Working as a Trainee Robotics Engineer at NexusHub Engineering
+- 🧭 Co-creator of Project Almanac
 - 📧 How to reach me: [akashsovis@gmail.com](mailto:akashsovis@gmail.com)
 - 🌎 [Find me on the internet](https://asankasovis.github.io/)
 - 🌲 [Go through my linktree](https://linktr.ee/asankasovis)
@@ -126,6 +126,12 @@ Stick It! is a basic note organizing app that can be used to store and pin notes
 - *Key Technologies* - 🖥️ Visual C#
 - *Status* - ✅ done (Documenting and Improving...)
 - *Repository* - [Stick It!](https://github.com/asankaSovis/Stick-It)
+
+### 11. 🌃 Project Almanac
+In this project, we try to use a distributed HPC algorithm to enhance timetable scheduling. Since efficiently distributing events across a timetable is an important part of the world to efficiently manage our day-to-day tasks, this project is crucial for the future of efficient timetable allocation. With the use of HPC, we intend to increase efficiency and find the optimal solution to this problem.
+- *Key Technologies* - 🖥️ Visual C# | 🐍 Python | 🖥️ Beowulf Cluster | 🖥️ High Performance Computing (HPC) | 🤖 Artificial Intelligence
+- *Status* - 🔄 working
+- *Project Website* - *Under development...*
 
 ---
 
