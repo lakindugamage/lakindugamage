@@ -131,7 +131,7 @@ Stick It! is a basic note organizing app that can be used to store and pin notes
 In this project, we try to use a distributed HPC algorithm to enhance timetable scheduling. Since efficiently distributing events across a timetable is an important part of the world to efficiently manage our day-to-day tasks, this project is crucial for the future of efficient timetable allocation. With the use of HPC, we intend to increase efficiency and find the optimal solution to this problem.
 - *Key Technologies* - 🖥️ Visual C# | 🐍 Python | 🖥️ Beowulf Cluster | 🖥️ High Performance Computing (HPC) | 🤖 Artificial Intelligence
 - *Status* - 🔄 working
-- *Project Website* - *Under development...*
+- *Project Website* - [Project Almanac](http://www.projectalmanac.org/)
 
 ---
 
