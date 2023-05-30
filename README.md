@@ -19,7 +19,8 @@
 
 - 🤗 Passionate about anything tech
 - 👍 Like music, good art and exercise
-- 🎓 Studying Electronics and Telecommunication Engineering at SLTC
+- 🎓 Studying Electronics and Telecommunication Engineering at [SLTC Research University](https://sltc.ac.lk/)
+- 👨‍💻 Working as an Embedded Systems Engineering Intern at [Atlas Populi Labs](https://atlaslabs.com.au/)
 - 🧭 Co-creator of [Project Almanac](http://www.projectalmanac.org/)
 - 📧 How to reach me: [akashsovis@gmail.com](mailto:akashsovis@gmail.com)
 - 🌎 [Find me on the internet](https://asankasovis.github.io/)
