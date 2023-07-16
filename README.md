@@ -13,7 +13,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asankasovis&theme=gruvbox&margin-w=15&column=7&no-frame=true" alt="Badges (NOTE: If you see this text, then someting must've gone wrong with loading this widget. Please try reloading. If it still persist, please contact me.)" /></a> </p>
 
-🧑‍🔬 As an Electronics and Telecommunication Engineering undergraduate from [Sri Lanka Technological Campus](www.sltc.ac.lk), I'm interested in all things electronic and programming related. I'm also working full-time as a Robotics RnD Engineer at NexusHub Engineering to complete my internship. I spend most of my time working on my campus work, developing engineering designs at my workplace and writing different pieces of code in my free time. I also like to fix electronic equipment and even design my own if I get the chance.
+🧑‍🔬 As an Electronics and Telecommunication Engineering undergraduate from [Sri Lanka Technological Campus](www.sltc.ac.lk), I'm interested in all things electronic and programming related. I'm also working full-time as an Embedded Systems Engineering Intern at Atlas Populi Labs to complete my internship. I spend most of my time working on my campus work, developing engineering designs at my workplace and writing different pieces of code in my free time. I also like to fix electronic equipment and even design my own if I get the chance.
 
 **Skills:** Electronic Engineering ⚡ | FPGAs &nbsp;𓇲&nbsp; | Programming 💻 | Graphic Designing 📊 | Teamwork 🤝 | Writing 📝
 
