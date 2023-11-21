@@ -1,8 +1,7 @@
-# Ayubowan 🙏🏾, I'm Asanka 🇱🇰
+I'm Lakindu
 
-![I'm a tech nerd and a coding enthusiast](https://github.com/asankaSovis/asankaSovis/blob/main/cover.png)
 
-> An Electronics & Telecommunication Engineering Undergraduate from Sri Lanka Technological Campus
+> An Mechanical Engineering Undergraduate from CINEC Campus Malabe.
 
 **🤔 Knowing how to code makes you look at the world from a different perspective 🌏. That's why I'm so passionate about coding. Hello World 👋; welcome to my Github profile. I'm still a student and am 24 years of age, so there's a long journey ahead of me 🙆. I like to dream 💬 big and to see other peoples dreams come true. I'm a tech nerd 🐱‍💻 and a coding enthusiast. Hope you might find me amusing.🤩**
 
@@ -11,7 +10,7 @@
 
 ---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asankasovis&theme=gruvbox&margin-w=15&column=7&no-frame=true" alt="Badges (NOTE: If you see this text, then someting must've gone wrong with loading this widget. Please try reloading. If it still persist, please contact me.)" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakindugamage&theme=gruvbox&margin-w=15&column=7&no-frame=true" alt="Badges (NOTE: If you see this text, then someting must've gone wrong with loading this widget. Please try reloading. If it still persist, please contact me.)" /></a> </p>
 
 🧑‍🔬 As an Electronics and Telecommunication Engineering undergraduate from [Sri Lanka Technological Campus](www.sltc.ac.lk), I'm interested in all things electronic and programming related. I'm also working full-time as an Embedded Systems Engineering Intern at Atlas Populi Labs to complete my internship. I spend most of my time working on my campus work, developing engineering designs at my workplace and writing different pieces of code in my free time. I also like to fix electronic equipment and even design my own if I get the chance.
 
@@ -58,10 +57,8 @@
 ⚡I am interested in a variety of fields. I find myself comfortable mostly in windows programming. However, I am interested in hardware descriptions languages like Verilog as well. On the other hand, I also do low level programming such as C/C++ and Assembly. Eventhough not my strong point, I'm also capable of working with web development tools. When it comes to scripting, I'm quite confident with Python.
 
 ```
-𓇲 Verilog            ⭐⭐⭐⭐               💻 Visual Basic      ⭐⭐⭐                 🖥️ Visual C#         ⭐⭐⭐⭐
-💾 C                 ⭐⭐⭐                 💿 C++               ⭐⭐⭐                 🪫Assembly           ⭐⭐
-🐍 Python            ⭐⭐⭐⭐               ☕ Java              ⭐⭐                   🐘 PHP               ⭐⭐
-📜 JS                ⭐⭐                    🌏 HTML              ⭐⭐                   🖌️ CSS               ⭐
+💻 Visual Basic      ⭐⭐⭐                  💾 C                 ⭐⭐⭐                 💿 C++               ⭐⭐⭐
+📜 JS                ⭐⭐                    🌏 HTML              ⭐⭐⭐                 🖌️ CSS               ⭐
 ```
 
 <p align="center"><img src="/metrics/metrics.plugin.langs.svg" alt="Top Languages" /></p>
