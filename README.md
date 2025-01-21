@@ -1,6 +1,5 @@
 I'm Lakindu
 
-
 > An Mechanical Engineering Undergraduate from CINEC Campus Malabe.
 
 **🤔 Knowing how to code makes you look at the world from a different perspective 🌏. That's why I'm so passionate about coding. Hello World 👋; welcome to my Github profile. I'm still a student and am 24 years of age, so there's a long journey ahead of me 🙆. I like to dream 💬 big and to see other peoples dreams come true. I'm a tech nerd 🐱‍💻 and a coding enthusiast. Hope you might find me amusing.🤩**
@@ -18,7 +17,6 @@ I'm Lakindu
 
 - 🤗 Passionate about anything tech
 - 🎓 Studied Mechanical Engineering at [CINEC](www.cinec.edu)
-- 🧭 Co-founder of [Zydertech](https://zydertech.com)
 - 📧 How to reach me: [lakindugamage2@gmail.com](mailto:lakindugamage2@gmail.com)
 - 🌲 [Go through my linkedIn profile](https://www.linkedin.com/in/lakindu-gamage-30bbb4206/)
 
@@ -32,7 +30,7 @@ I'm Lakindu
 ⚡I am interested in a variety of fields. I find myself comfortable mostly in windows programming. However, I am interested in hardware descriptions languages like Verilog as well. On the other hand, I also do low level programming such as C/C++ and Assembly. Eventhough not my strong point, I'm also capable of working with web development tools. When it comes to scripting, I'm quite confident with Python.
 
 ```
-💻 Visual Basic      ⭐⭐⭐                  💾 C                 ⭐⭐⭐                 💿 C++               ⭐⭐⭐                  💻 Flutter           ⭐⭐⭐⭐⭐
+💾 C                 ⭐⭐⭐                 💿 C++               ⭐⭐⭐                  💻 Flutter           ⭐⭐⭐⭐⭐
 📜 JS                ⭐⭐                    🌏 HTML               ⭐⭐⭐                 🖌️ CSS               ⭐
 ```
  
@@ -53,8 +51,6 @@ Cash Quad app is an app which helps people to monitor their expenses as you grow
 - *Repository* - Private
 
 ---
-
-> Want a profile like this 😏? [Drop in](https://www.fiverr.com/s2/e49d0013dd)
 
 ***Made in Sri Lanka***
 
